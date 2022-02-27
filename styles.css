@@ -1,0 +1,50 @@
+.colorred{
+    color:red;
+    font-size: 60px;
+    font-style: inherit;
+    
+}
+.pfont{
+    font-size: 30px;
+    color:blue;
+    font-style: italic;
+    font-family: cursive;
+}
+.a{
+    color:darkgreen;
+}
+.cat2{
+    font-size: 60px;
+    color:hotpink;
+    font-style: initial;
+    font-family: serif;
+}
+
+p:hover {
+    color: yellow;
+    font-size: 60px;
+  }
+
+  h1:hover {
+    color: rgba(255, 255, 255, 0);
+  }
+  .penguin {
+      color:brown;
+      font-style: italic;
+      font-family: cursive;
+  }
+  .penguin:hover {
+        font-size: 60px;
+  }
+  .aarondonald {
+      color:rgb(7, 94, 207);
+      font-size: 43px;
+      font-style: oblique;
+      font-family: sans-serif;
+      
+  }
+  .cat2:hover {
+      color:black;
+      size: 20px;
+  }
+  
